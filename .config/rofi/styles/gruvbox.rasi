@@ -1,0 +1,10 @@
+/* gruvbox color scheme */
+
+* {
+    mine-shaft:     #282828;
+    chamois:        #ebdbb2;
+    golden-grass:   #d79921;
+    blue:           #458588;
+    aqua:           #689d6a;
+    red:            #cc241d;
+}
